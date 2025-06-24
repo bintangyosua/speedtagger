@@ -95,6 +95,12 @@ def _(df):
 
 @app.cell
 def _(df):
+    df
+    return
+
+
+@app.cell
+def _(df):
     df.head()
     return
 
