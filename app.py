@@ -95,12 +95,15 @@ def _(df):
 
 @app.cell
 def _(df):
+<<<<<<< HEAD
     df
     return
 
 
 @app.cell
 def _(df):
+=======
+>>>>>>> ef404730f4500784999ab3628ca26edef8c08d98
     df.head()
     return
 
